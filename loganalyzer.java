@@ -1,7 +1,5 @@
 
 public class loganalyzer {
-
-	
 		
 	private IExtensionManager manager;
 	
